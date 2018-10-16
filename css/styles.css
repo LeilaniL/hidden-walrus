@@ -10,3 +10,18 @@ p {
 p:hover {
   text-decoration: underline;
 }
+
+.dark-on-light {
+  background-color: white;
+  color: black;
+}
+
+.light-on-dark {
+  background-color: black;
+  color: green;
+}
+.highlight {
+  border-color: yellow;
+  border-width: medium;
+  border-style: solid;
+}
